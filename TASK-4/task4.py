@@ -61,7 +61,7 @@ def main():
 
     # Citus connection details
     citus_host = 'localhost'
-    citus_port = 5439
+    citus_port = 15432
     citus_database = 'store'
     citus_user = 'postgres'
     citus_password = ''
